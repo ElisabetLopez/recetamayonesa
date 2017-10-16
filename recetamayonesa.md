@@ -6,8 +6,10 @@
 1 huevo
 sal
 vinagre
+ajo
 
 ####
+ 
 
 
-Receta modificada
+
